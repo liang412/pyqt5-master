@@ -25,4 +25,4 @@ if __name__ == '__main__':
     main = FirstMainWin()
     main.show()
 
-    sys.exit(app.exec_())
+    sys.exit(app.exec_())  # 进入程序主循环
